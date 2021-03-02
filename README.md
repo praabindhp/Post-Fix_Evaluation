@@ -9,7 +9,7 @@ The Operations/Error Illustrated :
 
     1. Post-Fix Evaluation
 
-    2. Add 2 Numbers
+    2. Stack Application
 
 The User Will Be Prompted To :
 
