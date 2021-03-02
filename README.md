@@ -16,12 +16,8 @@ The Operations/Error Illustrated :
 
 The User Will Be Prompted To :
 
-    1. Enter The 1st Number
+    1. Enter the Postfix Expression
 
-    2. Enter The 2nd Number
+    2. Given Postfix Expn
 
-    3. Exponent
-
-    4. Coefficient
-
-    5. The Added Polynomial : Answer
+    3. Result after Evaluation
